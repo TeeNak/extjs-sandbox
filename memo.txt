@@ -1,0 +1,9 @@
+
+ npm install
+
+ bower install
+
+ run the app:
+   > SET DEBUG=extjs-sandbox & npm start
+
+

@@ -1,0 +1,22 @@
+{
+  "name": "extjs-sandbox",
+  "version": "0.0.0",
+  "authors": [
+    "TeeNak <teenak77@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "extjs": "4.2.1-883"
+  }
+}

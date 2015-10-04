@@ -1,0 +1,16 @@
+*~
+#*
+*#
+.#*
+.classpath
+.project
+.settings/
+.springBeans
+target/
+node_modules/
+bower_components/
+_site/
+.idea
+*.iml
+*.bak
+.factorypath
