@@ -4,11 +4,11 @@ $ npm install
 
 $ bower install
 
-#run the app:
+#run the app
 
-# linux or mac
+## linux or mac
 $ DEBUG=myapp npm start
 
-# windows 
+## windows 
 > SET DEBUG=extjs-sandbox & npm start
 
